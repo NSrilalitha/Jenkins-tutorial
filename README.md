@@ -8,9 +8,9 @@ Jenkins is a open-source continous integration tool/application. It provides fol
  
 Jenkins provides hundreds of plugins to support building, deploying and automating any project. It is developed using java. So it is avaialble as a java web application package (Jenkins.war). It can be run by using web/application server.
 
-https://www.youtube.com/watch?v=XY-ZB3FRnxw&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD
-
 -> Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
+
+https://www.youtube.com/watch?v=XY-ZB3FRnxw&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD
 
 To download Jenkins war refer website:
 https://www.jenkins.io/download/
@@ -32,6 +32,24 @@ Git integration and configuring jobs using Git
 To configure Git to Jenkins job refer below video
 
 https://www.youtube.com/watch?v=ISAUsBSI8G0&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=8
+
+Creating and configuring nodes/slaves
+--------------------------------------
+To create and configure nodes refer below video
+
+https://www.youtube.com/watch?v=EOp2VVRHrKQ&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=7
+
+User administration
+-------------------
+To create users and roles refer below video
+
+https://www.youtube.com/watch?v=EARaltfiPVM&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=6
+
+Configuring maven projects using jenkins and GIT-VCS
+----------------------------------------------------
+To build maven project and use Git as version control system with Jenkins, refer below video
+
+https://www.youtube.com/watch?v=G6pUrURiEnE&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=5
 
 
 
