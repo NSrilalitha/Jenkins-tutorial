@@ -27,6 +27,8 @@ To create jenkins job and configuration, refer below video
 
 https://www.youtube.com/watch?v=vJqUwZpRqwo&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=4
 
+Refer : https://www.guru99.com/create-builds-jenkins-freestyle-project.html
+
 Git integration and configuring jobs using Git
 -----------------------------------------------
 To configure Git to Jenkins job refer below video
@@ -45,16 +47,27 @@ To create users and roles refer below video
 
 https://www.youtube.com/watch?v=EARaltfiPVM&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=6
 
+Refer this website for more information on user administration : https://www.guru99.com/create-users-manage-permissions.html
+
 Configuring maven projects using jenkins and GIT-VCS
 ----------------------------------------------------
 To build maven project and use Git as version control system with Jenkins, refer below video
 
 https://www.youtube.com/watch?v=G6pUrURiEnE&list=PL72NuHrFhBX4zNzI9zdGRidcf4SpFBXTD&index=5
 
+Jenkins CI/CD pipeline:
+-----------------------
 
+https://www.guru99.com/jenkins-pipeline-tutorial.html
 
+Refer below websites to learn more about Jenkins:
+=================================================
 
+https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-tutorial/
 
+https://www.guru99.com/jenkins-tutorial.html
+
+https://www.javatpoint.com/jenkins
 
 
 
