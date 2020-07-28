@@ -69,6 +69,8 @@ https://www.guru99.com/jenkins-tutorial.html
 
 https://www.javatpoint.com/jenkins
 
+view jenkins course on udemy: https://www.udemy.com/course/jenkins-intro/
+
 
 
  
